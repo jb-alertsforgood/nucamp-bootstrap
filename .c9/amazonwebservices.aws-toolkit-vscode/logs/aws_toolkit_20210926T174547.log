@@ -1,9 +1,0 @@
-2021-09-26 17:45:47 [ERROR]: log level: info
-2021-09-26 17:45:47 [INFO]: Retrieving AWS endpoint data
-2021-09-26 17:45:47 [INFO]: OS:  Linux x64 4.14.246-187.474.amzn2.x86_64
-2021-09-26 17:45:47 [INFO]: AWS Cloud9 Extension Host Version:  1.42.0AWS Toolkit Version:  1.27.0-6c4644db65c7
-2021-09-26 17:45:47 [INFO]: telemetry cache not found: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/telemetryCache'
-2021-09-26 17:50:48 [INFO]: Successfully sent a telemetry batch of 4
-2021-09-26 18:33:03 [INFO]: autoconnect: connected: 'profile:default'
-2021-09-26 18:33:05 [INFO]: SAM CLI location: /usr/local/bin/sam
-2021-09-26 18:35:48 [INFO]: Successfully sent a telemetry batch of 2
